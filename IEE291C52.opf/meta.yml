@@ -1,0 +1,27 @@
+id: IEE291C52
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-05T20:13:05.806448'
+last_modified: '2022-06-05T20:13:05.806453'
+parser: null
+source_metadata:
+  title: Thinley Norbu Rinpoche
+  language: bo
+  description: 'Texts by Thinley Norbu Rinpoche or Dungsé Thinley Norbu (gdung sras
+    phrin las nor bu, 1931–2011), who was the eldest son of Dudjom Rinpoche and a
+    celebrated Nyingma teacher in his own right:'
+  volume:
+    fCF76:
+      title: Prayer for the Long Life of Alak Zenkar Rinpoche, the Incarnation of
+        Do Khyentsé Yeshé Dorjé
+      base_file: fCF76.txt
+      order: 1
+      parent: Long Life Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
